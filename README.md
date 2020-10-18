@@ -4,6 +4,8 @@ This is an application for booking services in a mobile spa. The customer can pl
 The owner wants to make sure he has the morning hours booked. 
 After booking the first bank of (earlier) hours, the next bank is made available so that the next customer can select only later hours.
 
+VISIT: https://book-spa-front.herokuapp.com/order-request-list
+
 Design patterns implemented in project:
 - Observer (to take objects in proper moment)
 - Builder (easier creating OrderRequest instance)
